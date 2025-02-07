@@ -23,4 +23,4 @@ It showcases my projects, skills, and contact details in a visually appealing wa
 ## 📂 Project Setup  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourgithubusername/personal-portfolio.git
+   git clone https://github.com/additionsolutions/personal-portfolio.git
